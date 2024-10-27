@@ -12,7 +12,7 @@ def predict_price():
     
     random_price = round(random.uniform(100, 500), 2)
 
-    time.sleep(3)
+    time.sleep(1.5)
 
     response_data = {
         "received_params": data,
