@@ -8,3 +8,4 @@ reverse_geocoder>=1.5.1
 Flask>=2.0.0
 joblib>=1.0.0
 flask_cors>=3.0.10
+gunicorn
